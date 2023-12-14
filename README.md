@@ -4,6 +4,9 @@ This is a content based movie recommender system. The system recommends movies t
 To install and run the Content-Based Movie Recommendation System, follow these steps:
 
 1. Clone the repositery:
-    ``` https://github.com/whydhruv/movie_recommender_system ```
+    ````
+        https://github.com/whydhruv/movie_recommender_system
+
+    ````
 
 
