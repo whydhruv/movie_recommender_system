@@ -13,6 +13,6 @@ To install and run the Content-Based Movie Recommendation System, follow these s
     ````
 3. **Run the application:**
    ````
-    python app.py
+    streamlit run app.py
    ````
 
