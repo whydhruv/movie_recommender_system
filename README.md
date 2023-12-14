@@ -9,10 +9,10 @@ To install and run the Content-Based Movie Recommendation System, follow these s
     ````
 2. **Install dependencies:**
     ````
-        pip install -r requirements.txt
+     pip install -r requirements.txt
     ````
 3. **Run the application:**
    ````
-       python app.py
+    python app.py
    ````
 
